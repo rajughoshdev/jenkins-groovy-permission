@@ -7,7 +7,7 @@ def inputJson = new File(currentDir+"/users.json")
 def userlist = new JsonSlurper().parse(inputJson)
 
 def instance = Jenkins.getInstance()
-def hudsonRealm = new HudsonPrivateSecurityRealm(false)
+//def hudsonRealm = new HudsonPrivateSecurityRealm(false)
 def strategy = instance.getAuthorizationStrategy();
 
 userlist.admin.each { admingroup ->
@@ -26,5 +26,5 @@ userlist.developer.each { developergroup ->
     strategy.add(hudson.model.Item.WORKSPACE,"${developergroup}")
 }
 instance.setAuthorizationStrategy(strategy)
-instance.setSecurityRealm(hudsonRealm)
+//instance.setSecurityRealm(hudsonRealm)
 instance.save()
