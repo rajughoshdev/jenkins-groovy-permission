@@ -1,13 +1,26 @@
 {
-  "admin": [
-    "john.behling@fieldnation.com",
-    "raju.ghosh@fieldnation.com",
-    "raju@fieldnation.com"
-  ],
-  "developer": [
-    "kausar.alam@fieldnation.com",
-    "abu@fieldnation.com"
-  ]
+  "main": {
+      "admin": [
+        "john.behling@fieldnation.com",
+        "raju.ghosh@fieldnation.com",
+        "raju@fieldnation.com"
+      ],
+      "developer": [
+        "kausar.alam@fieldnation.com",
+        "abu@fieldnation.com"
+      ]
+    },
+  "data": {
+      "admin": [
+        "data.behling@fieldnation.com",
+        "raju.ghosh@fieldnation.com",
+        "raju@fieldnation.com"
+      ],
+      "developer": [
+        "kausar.alam@fieldnation.com",
+        "abu@fieldnation.com"
+      ]
+    }
 }
 
 
