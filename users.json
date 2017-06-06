@@ -1,11 +1,11 @@
 {
-  "main": {
+  "localhost": {
       "admin": [
         "john.behling@fieldnation.com",
         "raju.ghosh@fieldnation.com",
         "raju@fieldnation.com"
       ],
-      "developer": [
+      "users": [
         "kausar.alam@fieldnation.com",
         "abu@fieldnation.com"
       ]
@@ -16,7 +16,7 @@
         "raju.ghosh@fieldnation.com",
         "raju@fieldnation.com"
       ],
-      "developer": [
+      "users": [
         "kausar.alam@fieldnation.com",
         "abu@fieldnation.com"
       ]
