@@ -20,6 +20,17 @@
         "kausar.alam@fieldnation.com",
         "abu@fieldnation.com"
       ]
+    },
+  "fn": {
+      "admin": [
+        "data.behling@fieldnation.com",
+        "raju.ghosh@fieldnation.com",
+        "raju@fieldnation.com"
+      ],
+      "users": [
+        "kausar.alam@fieldnation.com",
+        "abu@fieldnation.com"
+      ]
     }
 }
 
