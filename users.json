@@ -1,9 +1,8 @@
 {
   "localhost": {
       "admin": [
-        "john.behling@fieldnation.com",
-        "raju.ghosh@fieldnation.com",
-        "raju@fieldnation.com"
+         "raju.ghosh@fieldnation.com",
+         "raju@fieldnation.com"
       ],
       "users": [
         "kausar.alam@fieldnation.com",
@@ -12,18 +11,18 @@
     },
   "data": {
       "admin": [
-        "data.behling@fieldnation.com",
+        "data@fieldnation.com",
         "raju.ghosh@fieldnation.com",
         "raju@fieldnation.com"
       ],
       "users": [
-        "kausar.alam@fieldnation.com",
+        "kausa5r.alam@fieldnation.com",
         "abu@fieldnation.com"
       ]
     },
   "fn": {
       "admin": [
-        "data.behling@fieldnation.com",
+        "dat5a@fieldnation.com",
         "raju.ghosh@fieldnation.com",
         "raju@fieldnation.com"
       ],
